@@ -1,2 +1,1 @@
-# myclinic
-Online Pharmacy &amp; Doctor Consultation Portal
+Online Pharmacy & Doctor Consultation Portal
